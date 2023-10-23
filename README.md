@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco Valenzuela</h1>
-<h3 align="center">A young full-stack developer from Argentina, who seeks to learn everything possible about programming to get his first job</h3>
+<h3 align="center">A young Full-Stack developer from Argentina, I love programming and I am learning everything possible to get my first job. #OpenToWork</h3>
 
 - 🌱 I’m currently learning **Full-Stack Develooper, from Soy Henry**
 
