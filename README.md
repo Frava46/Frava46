@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JS, React,Redux, NodeJs & Express.js,Sequelize**
 
-- 📫 How to reach me **frava46254425@gmail.com**
+- 📫 How to reach me **francovalenzuela.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">+543704610171
